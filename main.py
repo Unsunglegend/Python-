@@ -13,10 +13,10 @@ print("You are using Pycharm now","don't forget to save the program")
 
 
 """15 June 2021 (School)"""
-print("Abhigyan Srivastav")
-print("Abhigyan \nSrivastav")
-print('Abhigyan','Srivastav')
-print('Abhigyan','Srivastav',sep="_")
+print(" Mitnick ")
+print("Kevin \nMitnick")
+print('Kevin','Mitnick')
+print('Kevin','Mitnick',sep="_")
 
 """16 June 2021"""
 a=15
